@@ -1,16 +1,22 @@
-## Hi there 👋
+# Andrew Holland
 
-<!--
-**aj-holland-code/aj-holland-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java Software Development | Enterprise Applications | Spring**
 
-Here are some ideas to get you started:
+My professional programming experience has largely focused on enterprise Java. More recently, I have been updating my skills and applying them to a business-oriented project using modern Java technologies, including Spring Boot, REST APIs and relational databases. My approach emphasises separation of concerns, business rules, and automated software testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### [ABC Engineering Services](https://github.com/aj-holland-code/abc-engineering)
+
+A Spring Boot REST API for managing suppliers, invoices and payments in a fictional small-business scenario.
+
+**Technologies:** Java 21 · Spring Boot · PostgreSQL · JPA/Hibernate · Maven · JUnit · Mockito
+
+The project demonstrates REST API design, layered architecture, persistence, business-rule enforcement, exception handling, and automated testing.
+
+## Other Programming Work
+
+I have also worked with C++, including implementing common data structures and developing a small numerical programming project.
+
+- [Data-Structures](https://github.com/aj-holland-code/Data-Structures)
+- [Numeric](https://github.com/aj-holland-code/Numeric)
