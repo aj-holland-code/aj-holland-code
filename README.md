@@ -6,7 +6,7 @@ My professional programming experience has largely focused on enterprise Java. M
 
 ## Featured Project
 
-### [ABC Engineering Services](https://github.com/aj-holland-code/abc-engineering)
+### [ABC Engineering Services Invoice Application](https://github.com/aj-holland-code/abc-engineering)
 
 A Spring Boot REST API for managing suppliers, invoices and payments in a fictional small-business scenario.
 
